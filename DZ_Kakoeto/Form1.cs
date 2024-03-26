@@ -30,6 +30,7 @@ namespace DZ_Kakoeto
                 label_city.Text = $"Привет, {textBox1.Text}";
                 label_city.ForeColor = (sender as Button).ForeColor;
                 label_city.Visible = true;
+                //
             }
         }
     }
