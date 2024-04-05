@@ -45,5 +45,10 @@ namespace Dz_Kakoeto1_5
                 listBox1.Items.Add(item);
             }
         }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

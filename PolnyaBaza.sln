@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dz_Kakoeto2", "Dz_Kakoeto2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dz_Kakoeto1_5", "Dz_Kakoeto1_5\Dz_Kakoeto1_5.csproj", "{B3D399EB-460B-4474-AF2D-2942E1B2CAFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBaza", "TestBaza\TestBaza.csproj", "{0B293245-09AF-4FB6-8B6C-AF065D25786F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B3D399EB-460B-4474-AF2D-2942E1B2CAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3D399EB-460B-4474-AF2D-2942E1B2CAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3D399EB-460B-4474-AF2D-2942E1B2CAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B293245-09AF-4FB6-8B6C-AF065D25786F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B293245-09AF-4FB6-8B6C-AF065D25786F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B293245-09AF-4FB6-8B6C-AF065D25786F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B293245-09AF-4FB6-8B6C-AF065D25786F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
